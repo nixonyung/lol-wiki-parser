@@ -1,0 +1,6 @@
+git+https://github.com/nixonyung/python-helpers.git@cb6d31ffc97003f0bea658413f9a37e3a4833000
+git+https://github.com/nixonyung/python-minio-helpers.git@361b67a2574f09a6d5c31e2c8a062bb6be7d7568
+git+https://github.com/nixonyung/python-playwright-helpers.git@90a4a55f3fc7b56386fff9d0aa3d9e9f057dd43b
+lxml ~= 5.2
+pydantic ~= 2.8.2
+uvloop ~= 0.19
